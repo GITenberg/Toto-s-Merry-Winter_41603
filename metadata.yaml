@@ -1,0 +1,35 @@
+_repo: Toto-s-Merry-Winter_41603
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41603-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2012-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Winter -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Blindness -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+title: Toto's Merry Winter
+url: http://www.gutenberg.org/ebooks/41603
